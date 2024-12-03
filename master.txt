@@ -1,1 +1,2 @@
 This is master text file
+Edited from Private branch
